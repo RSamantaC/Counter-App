@@ -32,7 +32,7 @@ This is a simple web application that allows users to count numbers intuitively 
 
 ## Demo
 
-https://rsamantac.github.io/Counter-App
+https://rsamantac.github.io/counterapp
 
 ## Color Reference
 
