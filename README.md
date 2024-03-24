@@ -10,7 +10,7 @@ Counter Web Application
 
 ## Screenshots
 
-![App Screenshot](https://rsamantac.github.io/Counter-app/assets/images/Screenshot.png)
+![App Screenshot](https://rsamantac.github.io/Counter-App/assets/images/screenshot.png)
 
 
 ## Documentation
@@ -32,7 +32,7 @@ This is a simple web application that allows users to count numbers intuitively 
 
 ## Demo
 
-https://rsamantac.github.io/Counter-app
+https://rsamantac.github.io/Counter-App
 
 ## Color Reference
 
