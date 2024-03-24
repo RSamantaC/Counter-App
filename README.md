@@ -10,7 +10,7 @@ Counter Web Application
 
 ## Screenshots
 
-![App Screenshot](https://rsamantac.github.io/Counter-App/assets/images/screenshot.png)
+![App Screenshot](https://i.ibb.co/9hF71dN/screenshot.png)
 
 
 ## Documentation
